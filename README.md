@@ -1,12 +1,52 @@
-- 👋 Hi, I’m @TheRealUPDiver
-- 👀 I’m interested in cybersecurity and software development
-- 🌱 I’m currently learning secure hardware design (6.595) at MIT
-- 💞️ I’m looking to collaborate on secure hardware design extracurricular projects
-- 📫 How to reach me: unpluggeddive@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm actually a pre-med student at Harvard
+#  Welcome to Unplugged Diver Development
 
-<!---
-TheRealUPDiver/TheRealUPDiver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I am **@TheRealUPDiver**, I specialize in software development and cybersecurity.
+
+## Professional Background
+
+My focus areas include:
+
+- **Secure Application Design**
+- **Secure Hardware Design**
+- **Network Security**
+- **Code Obfuscation**
+
+I am passionate about creating secure and efficient solutions that prioritize security integrity 
+
+## Education and Professional Development
+
+### MIT Class Spectator
+- **Secure Hardware Design**
+  - SHD | 6.5950
+
+### Harvard Summer School
+- **Fundamentals of the Law and Cybersecurity**
+  - CSCI S-147a
+
+### Professional Certificate
+- **Stanford Professional Development**
+  - Advanced Cybersecurity Program (XACS)
+
+## Featured Project: **HopOffer**
+
+> **A College Student-Focused Job Platform**
+
+This mobile application was meticulously developed to simplify the job search and application process for college students. It features personalized job recommendations, a swipe-based user interface for intuitive job discovery, and an efficient application tracking system. Built using **React Native**, **Firebase**, and **Node.js**.
+[HopOffer on Devpost](https://devpost.com/software/hopoffer?ref_content=my-projects-tab&ref_feature=my_projects)
+
+## Collaboration Opportunities
+
+I am actively seeking collaboration on extracurricular projects in the area of **Secure Hardware Design**. I am open to innovative project ideas, research opportunities, and practical applications in hardware security.
+
+## Connect with Me
+
+Feel free to reach out to discuss collaborations or inquiries:
+
+- **Email:** [unpluggeddive@gmail.com](mailto:unpluggeddive@gmail.com)
+- **GitHub:** [@TheRealUPDiver](https://github.com/TheRealUPDiver)
+
+## Pronouns
+
+He/Him
+
+---
